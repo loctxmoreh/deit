@@ -1,0 +1,11 @@
+name: deit
+channels:
+    - pytorch
+    - conda-forge
+dependencies:
+    - python=3.8
+    - pytorch=1.7.1
+    - torchvision=0.8.2
+    - cudatoolkit=11.0
+    - timm=0.3.2
+    - tensorboard
