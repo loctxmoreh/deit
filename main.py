@@ -25,6 +25,9 @@ from augment import new_data_aug_generator
 
 import models
 import models_v2
+import cait_models
+import patchconvnet_models
+import resmlp_models
 
 import utils
 
